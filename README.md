@@ -1,6 +1,6 @@
 // utilizzato Visual Studio Code per il codice e DB Browser for SQlite per il database
 
-//librerie utilizzate: <iostream>, <string>, <sqlite3.h>
+//librerie utilizzate: iostream, string, sqlite3.h
 
 // per attivare il programma su un mac, dopo aver aperto la cartella del progetto, entrare nella cartella "src" ed aprire il file "main"
 
